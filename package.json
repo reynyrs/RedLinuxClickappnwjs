@@ -1,0 +1,10 @@
+ 
+{
+    "name":"RedlinuxClick",
+    "version":"1.0.5",
+    "devDependencies":{
+      "nw":"^0.18.2",
+      "nw-builder":"^3.1.2"
+    }
+  }
+   
